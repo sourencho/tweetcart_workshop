@@ -10,3 +10,7 @@ Some background:
 
 Some examples:
 
+- [link](https://twitter.com/fernandojsg/status/1101800243216244737) | [src](tweetcarts/examples/fernandojsg_graph.lua)
+  - ![img](gifs/examples/fernandojsg_graph.gif)
+- [link](https://twitter.com/alexthescott/status/1502791044810772481) | [src](tweetcarts/examples/alexthescott_colorful_squigle.lua)
+  - ![img](gifs/examples/alexthescott_colorful_squigle.gif)
