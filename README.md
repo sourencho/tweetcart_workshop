@@ -8,7 +8,18 @@ Inspired by the demoscene, we will study and produce retro looking visuals in PI
 - PICO-8 is a virtual console for making and playing retro looking visuals, games and tools.
 - Tweetcarts are PICO-8 cartridges whose code fits inside a single tweet. Basically, you can copy the code, paste it into a blank PICO-8 cart, and see the same effect that's shown in the original tweet. 
 
-### Examples
+## Resources
+
+- Tweetcarts!
+  - https://twitter.com/search?q=%23tweetcart
+  - https://www.lexaloffle.com/bbs/?tid=39199
+  - https://gamedevbrook.itch.io/tweetcart-showcase
+- Tutorials
+  - https://demobasics.pixienop.net/tweetcarts/
+  - https://rexcellentgames.com/minifying-tweetcarts/
+  - https://demoman.net/?a=optimizing-for-tweetcarts
+
+## Examples
 
 #### fernandojsg_graph | [link](https://twitter.com/fernandojsg/status/1101800243216244737) | [src](tweetcarts/examples/fernandojsg_graph.p8)
 ![img](gifs/examples/fernandojsg_graph_0.gif)
@@ -28,14 +39,3 @@ Inspired by the demoscene, we will study and produce retro looking visuals in PI
 #### brook_sunflower | [link](https://twitter.com/gamedevbrook/status/1498804023675260940) | [src](tweetcarts/examples/brook_sunflower.p8)
 
 ![img](gifs/examples/brook_sunflower_0.gif)
-
-## Resources
-
-- Tweetcarts!
-  - https://twitter.com/search?q=%23tweetcart
-  - https://www.lexaloffle.com/bbs/?tid=39199
-  - https://gamedevbrook.itch.io/tweetcart-showcase
-- Tutorials
-  - https://demobasics.pixienop.net/tweetcarts/
-  - https://rexcellentgames.com/minifying-tweetcarts/
-  - https://demoman.net/?a=optimizing-for-tweetcarts
