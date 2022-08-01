@@ -59,6 +59,8 @@ Inspired by the demoscene, we will study and produce retro looking visuals in th
   - https://demobasics.pixienop.net/tweetcarts/
   - https://rexcellentgames.com/minifying-tweetcarts/
   - https://demoman.net/?a=optimizing-for-tweetcarts
+- Misc
+  - https://github.com/pico-8/awesome-PICO-8
 
 ## Examples
 
