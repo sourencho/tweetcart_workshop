@@ -60,7 +60,7 @@ Inspired by the demoscene, we will study and produce retro looking visuals in th
   - https://rexcellentgames.com/minifying-tweetcarts/
   - https://demoman.net/?a=optimizing-for-tweetcarts
 - Misc
-  - http://www.sizecoding.org/wiki/Resources
+  - http://www.sizecoding.org/wiki/PICO-8
   - [Sizecoding Discord](https://discord.gg/pZE5rAQrHx)
   - https://github.com/pico-8/awesome-PICO-8
 
