@@ -9,8 +9,8 @@ Inspired by the demoscene, we will study and produce retro looking visuals in th
 - Tweetcarts are PICO-8 cartridges whose code fits inside a single tweet. Basically, you can copy the code, paste it into a blank PICO-8 cart, and see the same effect that's shown in the original tweet. 
 
 ## Logistics
-- X? lessons over Y? weeks, each Z? hours
-- Students will work with PICO-8 on [desktop](https://www.lexaloffle.com/pico-8.php?#getpico8) or [online](https://www.pico-8-edu.com/).
+- One week, 4-5 hours per day, 5 days
+- Students will work with PICO-8 on [desktop](https://www.lexaloffle.com/pico-8.php?#getpico8) or [browser](https://www.pico-8-edu.com/).
 
 ## Outcome
 - Each student produces 1-3 polished visuals where at least one is a tweetcart
