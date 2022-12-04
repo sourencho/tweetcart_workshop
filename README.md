@@ -53,6 +53,7 @@ Inspired by the demoscene, we will study and produce retro looking visuals in th
 
 - Tweetcarts!
   - https://twitter.com/search?q=%23tweetcart
+  - https://museum-of-tweetcart-history.neocities.org/
   - https://www.lexaloffle.com/bbs/?tid=39199
   - https://gamedevbrook.itch.io/tweetcart-showcase
 - Tutorials
@@ -63,6 +64,8 @@ Inspired by the demoscene, we will study and produce retro looking visuals in th
   - http://www.sizecoding.org/wiki/PICO-8
   - [Sizecoding Discord](https://discord.gg/pZE5rAQrHx)
   - https://github.com/pico-8/awesome-PICO-8
+- Archive
+  - [Google Drive: PICO-8 Tweetcart Archive](https://drive.google.com/drive/folders/1V7N4nXfsJRM1ZSU3NuCsUBIwFf0PdwCO)
 
 ## Examples
 
